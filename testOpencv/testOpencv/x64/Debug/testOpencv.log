@@ -1,0 +1,7 @@
+﻿  testOpencv.cpp
+c:\users\liangshuo\desktop\chatdetection\détection de chat\testopencv\testopencv\testopencv.cpp(43): warning C4244: “初始化”: 从“_Tp”转换到“int”，可能丢失数据
+          with
+          [
+              _Tp=double
+          ]
+  testOpencv.vcxproj -> C:\Users\liangshuo\Desktop\ChatDetection\détection de chat\testOpencv\x64\Debug\testOpencv.exe
